@@ -13,9 +13,11 @@
 | 🐋 [Bigfish](https://github.com/gosomea/dsh-bigfish) | 跟随 Agent 工作状态变化的动画宠物，支持自定义角色。 |
 | 🔧 [Plugin Crafter](https://github.com/gosomea/dsh-plugin-crafter) | 为 DSH 插件开发提供版本匹配指导与隔离验证。 |
 
-<a href="https://github.com/gosomea/dsh-bigfish"><img src="https://github.com/gosomea/dsh-bigfish/blob/main/docs/media/bigfish-demo.gif?raw=true" width="360" alt="Bigfish 动画演示：等待、工作、工具调用与完成反馈"></a>
+<a href="https://github.com/gosomea/dsh-bigfish"><img src="assets/bigfish-demo.gif" width="360" alt="Bigfish 动画演示：等待、工作、工具调用与完成反馈"></a>
 
 <sub>Bigfish：使用实际宠物渲染与动画的演示，任务状态由演示数据驱动。</sub>
+
+[▶ 查看动画](assets/bigfish-demo.gif) · [完整录屏](https://github.com/gosomea/dsh-bigfish/blob/main/docs/media/bigfish-demo.mp4)
 
 ### Exploring
 
